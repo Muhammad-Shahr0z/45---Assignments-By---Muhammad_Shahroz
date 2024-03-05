@@ -25,6 +25,7 @@ if (personName !== null && personName !== "") {
   
 
 } else {
-  alert(`Please Enter Name First`);
+
+  alert(`HELLO , Please Enter Name First`);
 
 }
