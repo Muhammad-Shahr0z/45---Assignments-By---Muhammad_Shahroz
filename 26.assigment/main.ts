@@ -12,10 +12,10 @@
 
 
 
-let alien_color :string = 'green';
+let alien_color :string = 'blue';
 
 //  Green color check kiya he.
-if (alien_color === 'blue') {
+if (alien_color === 'green') {
     
   console.log("Player just earned 5 points");
 }else{
