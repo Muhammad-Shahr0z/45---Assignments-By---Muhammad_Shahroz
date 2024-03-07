@@ -12,7 +12,7 @@
 
 // • If the person is age 65 or older, print a message that the person is an elder.
 
-let person_Age :number =26;
+let person_Age :number =64;
 
 if(person_Age < 2){
     console.log("That the person is a baby");  
@@ -35,14 +35,9 @@ else if(person_Age == 13 || person_Age < 20 ){
 else if(person_Age == 20 || person_Age < 65 ){
     console.log("That the person is a adult"); 
 }
-
-
-else if(person_Age == 65 || person_Age > 65 ){
-    console.log("That the person is a elder"); 
-}//else{
-//     console.log("Please Enter Your Valid Age");
+else{
+    console.log("That the person is a elder");
     
-// }
-
+}
 ///output
 //That the person is a adult

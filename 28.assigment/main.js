@@ -6,7 +6,7 @@
 // • If the person is at least 13 years old but less than 20, print a message that the person is a teenager.
 // • If the person is at least 20 years old but less than 65, print a message that the person is an adult.
 // • If the person is age 65 or older, print a message that the person is an elder.
-let person_Age = 26;
+let person_Age = 64;
 if (person_Age < 2) {
     console.log("That the person is a baby");
 }
@@ -22,10 +22,8 @@ else if (person_Age == 13 || person_Age < 20) {
 else if (person_Age == 20 || person_Age < 65) {
     console.log("That the person is a adult");
 }
-else if (person_Age == 65 || person_Age > 65) {
+else {
     console.log("That the person is a elder");
-} //else{
-//     console.log("Please Enter Your Valid Age");
-// }
+}
 ///output
 //That the person is a adult
