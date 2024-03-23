@@ -3,6 +3,5 @@
 let fNames = ['Daniyaal Nagori', 'Sir Zia Khan', 'Kamran Khan Tessori', 'Ameen Alam'];
 console.log(fNames);
 for (let i = 0; i < fNames.length; i++) {
-    console.log("\n"); //only for  next line  //
     console.log(fNames[i]);
 }

@@ -15,5 +15,4 @@ console.log(4*2);  //multiplication,
 console.log(16/2); //division,
 
 
-// four lines with the number 8 appearing once on each line.
 

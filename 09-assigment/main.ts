@@ -4,7 +4,7 @@
 
 let favoriteNumber : number = 5 ;
 
-let message : string = ` ${favoriteNumber}  is your favorite number`
+let message : string = `Number  ${favoriteNumber}  is your favorite number`
 
 console.log(message)
 

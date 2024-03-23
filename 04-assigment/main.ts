@@ -2,12 +2,6 @@
 
 
 
-// let authorQ : string = "Muhammad Ali Jinnah"
-// console.log( `${authorQ} once said, “I do not believe in taking the right decision, I take a decision and make it right.`)
-
-
-
-
 console.log( 'Muhammad Ali Jinna once said, “I do not believe in taking the right decision, I take a decision and make it right.')
 
 
