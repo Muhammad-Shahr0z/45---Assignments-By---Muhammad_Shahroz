@@ -9,5 +9,5 @@ console.log(`such as ${city} is in ${country}`);
 }
 
 describe_city("Karachi");
-describe_city("Mubai" , "India");
+describe_city("Mumbai" , "India");
 describe_city("New York", "USA");
